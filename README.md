@@ -20,7 +20,7 @@ resulted in the lowest Precision and why, which value resulted in the best F1 sc
 
 *In homework 3 (**association rules**):*
 - Generated Frequent Itemsets from the Online Retail dataset from the UCI Machine Learning Repository using the apriori module from the MLxtend library, for transactions in France. Created association rules. 
-- Calculate the binary correlation coefficient Φ for the Chocolate Coffee and Chocolate Cake items in the Extended Bakery dataset (75000-out2-binary.csv). Analyzed whether these two items are symmetric binary variables, by providing supporting calculations. Analyzed whether the association rules {Chocolate Coffee} =⇒ {Chocolate Cake} would have the same value for Φ as {Chocolate Cake} =⇒ {Chocolate Coffee}?
+- Calculated the binary correlation coefficient Φ for the Chocolate Coffee and Chocolate Cake items in the Extended Bakery dataset (75000-out2-binary.csv). Analyzed whether these two items are symmetric binary variables, by providing supporting calculations. Analyzed whether the association rules {Chocolate Coffee} =⇒ {Chocolate Cake} would have the same value for Φ as {Chocolate Cake} =⇒ {Chocolate Coffee}?
 
 
 *In homework 4 (**clustering**):*
